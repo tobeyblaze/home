@@ -3,7 +3,7 @@ title: Working with Tobey
 ---
 
   
-![Profile photo](https://embed.filekitcdn.com/e/cpzyuXPJkdWSL8xChrEJNe/7sd1fCet8MHAu6XDu7ty24)
+![Profile photo](https://avatars.githubusercontent.com/u/207039385?v=4)
 
 # Tobey Aumann
 
