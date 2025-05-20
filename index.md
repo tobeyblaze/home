@@ -18,11 +18,13 @@ I help _smart, self-aware professionals_ navigating transitions, crises, and r
 We won’t just talk about your challenges, we will build the solutions side by side.
 
 
-## **Lead with clarity—even when the ground shifts beneath you.**
+## Lead with clarity—even when the ground shifts beneath you.
 
-### Personalized coaching for senior professionals navigating complexity, role changes, and performance pressure.
+Personalized coaching for senior professionals navigating complexity, role changes, and performance pressure.
 
-> **[Book a free 30-min Consultation](https://zcal.co/tobey)**
+>
+> [Book a free 30-min Consultation](https://zcal.co/tobey)
+>
 
 ## You’ve been handed more responsibility, less clarity, and higher expectations.
 
@@ -37,27 +39,27 @@ Let’s work together to stabilize, act decisively, and lead with confidence—r
 
 ## 1:1 Coaching Packages
 
-#### **Get Grounded — 4-Week Intensive**
+### Get Grounded — 4-Week Intensive
 
 - 4 weekly coaching sessions
 - Just-in-time planning and messaging
 - Tools for role clarity, stakeholder mapping, and getting traction fast
 - **Ideal for new managers or ICs suddenly accountable for outcomes**
 
-#### **Strategic Grounding – 3-Month Extended Package**
+### Strategic Grounding – 3-Month Extended Package
 
-- For senior leaders managing large teams, strategic ambiguity, or shifting org dynamics.
 - 6 biweekly 1:1 coaching sessions
 - Async feedback and strategic planning support
 - Tools for stakeholder mapping, team clarity, and executive presence
 - Optional async check-ins between sessions
+- **Ideal for senior leaders managing large teams, strategic ambiguity, or shifting org dynamics.**
 
-Don’t see something that fits?  
+### Don’t see something that fits?  
 Get in touch for options.
 
-> **[Book a free 30-min Consultation](https://zcal.co/tobey)**
+> [Book a free 30-min Consultation](https://zcal.co/tobey)
 
-## Who This Is For
+## Who Is This For?
 
 - Managers of managers, team leads, and senior professionals whose roles have shifted suddenly or subtly.
 - People facing high-stakes leadership moments: performance interventions, team chaos, new visibility, or unclear strategy.
