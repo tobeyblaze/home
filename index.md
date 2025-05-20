@@ -3,9 +3,9 @@ title: Working with Tobey
 ---
 
   
-![Profile photo](https://avatars.githubusercontent.com/u/207039385?v=4)
 
-# Tobey Aumann
+
+# Tobey Aumann  ![Profile photo](https://avatars.githubusercontent.com/u/207039385?v=4)
 
 ### LEADERSHIP COACH
 
@@ -22,9 +22,9 @@ We won’t just talk about your challenges, we will build the solutions side by 
 
 Personalized coaching for senior professionals navigating complexity, role changes, and performance pressure.
 
-> * * *
-> [Book a free 30-min Consultation](https://zcal.co/tobey) 
-> * * *
+
+### [Book a free 30-min Consultation](https://zcal.co/tobey)
+
 
 ## You’ve been handed more responsibility, less clarity, and higher expectations.
 
@@ -34,7 +34,6 @@ Let’s work together to stabilize, act decisively, and lead with confidence—r
 🌈 Co-created solutions during sessions—not just talk  
 🌈 Strategic planning tools and kind, firm support  
 🌈 A safe, neutral space where you don’t have to explain your worth
-
 
 
 ## 1:1 Coaching Packages
@@ -57,7 +56,8 @@ Let’s work together to stabilize, act decisively, and lead with confidence—r
 ### Don’t see something that fits?  
 Get in touch for options.
 
-> [Book a free 30-min Consultation](https://zcal.co/tobey)
+### [Book a free 30-min Consultation](https://zcal.co/tobey)
+
 
 ## Who Is This For?
 
@@ -67,7 +67,8 @@ Get in touch for options.
 
 You don’t have to mask or over-explain yourself; I coach with nuance, flexibility, and respect for your lived experience.
 
-> **[Book a free 30-min Consultation](https://zcal.co/tobey)**
+### [Book a free 30-min Consultation](https://zcal.co/tobey)
+
 
 ### Socials
 
