@@ -5,11 +5,11 @@ title: Working with Tobey
   
 
 
-# Tobey Aumann  ![Profile photo](https://avatars.githubusercontent.com/u/207039385?v=4)
+# Tobey Aumann  
 
 ### LEADERSHIP COACH
 
-Hi, I'm Tobey, a professional abstract artist, international speaker, and leadership coach based in Boston.
+Hi, I'm Tobey, a professional abstract artist, international speaker, and leadership coach based in Boston. ![Profile photo](https://avatars.githubusercontent.com/u/207039385?v=4)
 
 Agility is not just for code. The world keeps changing, and not always for the better. Your people need you to show up for them, even when the ground keeps shifting beneath you.
 
