@@ -22,9 +22,9 @@ We won’t just talk about your challenges, we will build the solutions side by 
 
 Personalized coaching for senior professionals navigating complexity, role changes, and performance pressure.
 
->
-> [Book a free 30-min Consultation](https://zcal.co/tobey)
->
+> * * *
+> [Book a free 30-min Consultation](https://zcal.co/tobey) 
+> * * *
 
 ## You’ve been handed more responsibility, less clarity, and higher expectations.
 
