@@ -47,7 +47,7 @@ Let’s work together to stabilize, act decisively, and lead with confidence—r
 
 ### Strategic Grounding – 3-Month Extended Package
 
-- 6 biweekly 1:1 coaching sessions
+- Six 1:1 coaching sessions, offered every other week
 - Async feedback and strategic planning support
 - Tools for stakeholder mapping, team clarity, and executive presence
 - Optional async check-ins between sessions
