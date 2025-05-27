@@ -2,24 +2,10 @@
 title: Working with Tobey
 ---
 
-  
-
-
-# Tobey Aumann  
-
-### LEADERSHIP COACH
-<img src="https://avatars.githubusercontent.com/u/207039385?v=4" height="200" align="RIGHT">
-Hi, I'm Tobey, a professional abstract artist, international speaker, and leadership coach based in Boston. 
-
-Agility is not just for code. The world keeps changing, and not always for the better. Your people need you to show up for them, even when the ground keeps shifting beneath you.
-
-I help _smart, self-aware professionals_ navigating transitions, crises, and re-skilling — without judgment. You don’t have to mask or over-explain yourself; I coach with nuance, flexibility, and respect for your lived experience.
-
-We won’t just talk about your challenges, we will build the solutions side by side.
-
-
 ## Lead with clarity—even when the ground shifts beneath you.
 
+
+<img src="https://avatars.githubusercontent.com/u/207039385?v=4" height="200" align="RIGHT">
 Personalized coaching for senior professionals navigating complexity, role changes, and performance pressure.
 
 
@@ -68,6 +54,17 @@ Get in touch for options.
 You don’t have to mask or over-explain yourself; I coach with nuance, flexibility, and respect for your lived experience.
 
 ### [Book a free 30-min Consultation](https://zcal.co/tobey)
+
+
+
+# Who is Tobey Aumann? 
+If you made it this far, hello! I'm a professional abstract artist, international speaker, and leadership coach based in Boston.  
+
+I believe Agility is not just for code. The world keeps changing, and not always for the better. Your people need you to show up for them, even when the ground keeps shifting beneath you.
+
+I help _smart, self-aware professionals_ navigating transitions, crises, and re-skilling — without judgment. You don’t have to mask or over-explain yourself; I coach with nuance, flexibility, and respect for your lived experience.
+
+We won’t just talk about your challenges, we will build the solutions side by side.
 
 
 ### Socials
