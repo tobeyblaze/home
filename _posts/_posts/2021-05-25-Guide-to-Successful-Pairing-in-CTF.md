@@ -1,3 +1,9 @@
+---
+title: "Guide-to-Successful-Pairing-in-CTF"
+date: 2021-05-21
+---
+
+
 _July 2025 Publication Note: I originally wrote and published this as an internal document for a previous employer. I've removed links and references to the company but otherwise didn't edit the content_
 
 # Guide to Pairing during CTF
